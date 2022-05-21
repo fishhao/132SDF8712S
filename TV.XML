@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?><list>
+<m list_name="move" list_src="http://127.0.0.1/android/"/>
+<m list_name="playback" list_src="http://127.0.0.1/lock/cctv.php?"/>
+<m list_name="zblive" list_src="http://127.0.0.1/zb/tv/tv3.xml"/>
+<m list_name="twlive" list_src="http://43.142.29.5:777/TV/file.asp?"/>
+<m list_name="fdl" list_src="127.0.0.1"/>
+<m list_name="sm" list_src="http://47.74.24.178/TV/file.asp?"/>
+<m list_name="enddate" list_src="http://127.0.0.1/epg/showdate.php"/>
+<m list_name="marquee" list_src="http://127.0.0.1/aaaa.php"/>
+<m list_name="advertising" list_src="http://127.0.0.1/epg/adpic/def.jpg"/>
+<m list_name="updateapk" list_src="http://127.0.0.1/epg/updateapk2.php"/>
+<m list_name="updatepw" list_src="http://127.0.0.1/epg/updatepw2.php"/></list>
